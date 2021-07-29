@@ -1,23 +1,23 @@
 # Delani Studio
 
-[Check it out](https://kamauvick.github.io/Delani-Studio/)
+[Check it out](https://xelousy.github.io/delanistudio//)
 ## Description.
-Delani Studio is a site built to practice concepts learnt including JQuery, bootstrap, javascript and working with APIS's.
+Delani Studio is a site built to practice concepts learnt including JQuery, bootstrap and javascript.
 
 ## Author
 Alex Waturi
 
 ## Screenshot.
-<img src="https://github.com/kamauvick/Delani-Studio/blob/master/images/screenshot/shot.png?raw=true" width="1000">
+<img src="https://github.com/xelousy/delanistudio/tree/master/images/screenshot/shot.png?raw=true" width="1000">
 
 ## Setup.
 To get a local copy of the site:
 
-`git clone https://github.com/kamauvick/Delani-Studio.git`
+`git clone https://github.com/xelousy/delanistudio.git`
 
 `Extract` the cloned file.
 
-`cd` to Delani-Studio folder.
+`cd` to delanistudio folder.
 
 *Launch* `index.html` file.
 
@@ -31,15 +31,11 @@ To get a local copy of the site:
 ## BDD
 | Inputs |  Description |
 | :---         |          ---: |
-| Name   | The users name. `eg Victor Waichigo`|
+| Name   | The users name. `eg usermail@gmail.com`|
 | Email     | The users email. ``eg usermail@gmail.com``   |
 | Message    | The message from the user.   |
 
-## Bugs.
-The MailChimp API doesn't work properly.
+
 
 ## License
->MIT LICENSE &copy; 2019 Victor
-
-## Collaborate
-To contribute to Delani studio, reach me on [Email](alexwaturi1@gmail.com).
+>MIT LICENSE &copy; 2021 Alex
