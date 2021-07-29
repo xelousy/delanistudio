@@ -8,7 +8,7 @@ Delani Studio is a site built to practice concepts learnt including JQuery, boot
 Alex Waturi
 
 ## Screenshot.
-<img src="https://github.com/xelousy/delanistudio/tree/master/images/screenshot/shot.png?raw=true" width="1000">
+<img src="https://https://github.com/xelousy/delanistudio/images/screenshot/shot.png?raw=true" width="1000">
 
 ## Setup.
 To get a local copy of the site:
